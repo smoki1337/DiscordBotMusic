@@ -19,7 +19,7 @@ for(const file of commandFIles){
 }
 
 client.once('ready', () => {
-    console.log('Cadenza is Online');
+    console.log('smoki is Online');
 });
 client.once('disconect', () => {
     console.log('Disconnect!');
