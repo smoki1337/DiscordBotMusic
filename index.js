@@ -44,4 +44,3 @@ client.on('message', async (msg) => {
 });
 
 client.login(process.env.token);
-
