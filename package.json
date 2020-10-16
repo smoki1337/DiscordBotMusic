@@ -1,21 +1,17 @@
 {
-  "name": "cadenza",
+  "name": "got",
   "version": "1.0.0",
   "description": "A fully functional Discord Music Bot.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Artistic18/Cadenza.git"
-  },
-  "author": "Hrishit",
+
+  "author": "smoki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Artistic18/Cadenza/issues"
+    "url": "https://github.com/smoki1337/DiscordBotMusic/issues"
   },
-  "homepage": "https://github.com/Artistic18/Cadenza#readme",
   "dependencies": {
     "discord.js": "^12.3.1",
     "opusscript": "0.0.7",
